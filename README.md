@@ -30,6 +30,14 @@ Stand: 24.02.2025 01:57 Uhr
 
 - [ ] Darstellen von gebliebenen Wählern
 
+
+## Getting Started
+
+1. Repository im Devcontainer starten (z.B. Lokal oder mit GitHub Codespaces)
+2. `install.sh` ausführen
+3. `install.R` ausführen
+4. `diagram.R` ausführen
+
 ## Sonstiges
 
 Mit viel Hilfe von KI erstellt
